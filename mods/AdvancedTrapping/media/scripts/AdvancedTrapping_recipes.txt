@@ -1,0 +1,17 @@
+module AdvancedTrapping
+{
+    imports {
+        Base
+    }
+    recipe Slice Frog
+    {
+        keep [Recipe.GetItemTypes.SharpKnife]/MeatCleaver,
+        DeadFrog,
+
+        Result:FrogMeat,
+        Sound:SliceMeat,
+        Time:50.0,
+        Category:Cooking,
+        OnGiveXP:Recipe.OnGiveXP.Cooking10,
+    }
+}

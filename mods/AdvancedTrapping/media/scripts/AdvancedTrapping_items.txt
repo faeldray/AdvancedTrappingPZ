@@ -1,0 +1,32 @@
+module AdvancedTrapping
+{
+    imports {
+        Base
+    }
+    item DeadFrog
+	{
+		DisplayName = Dead Frog,
+		DisplayCategory = Food,
+		Type = Food,
+		Weight = 0.4,
+		Icon = Frog,
+		BadCold = true,
+		BadInMicrowave = true,
+		DangerousUncooked = TRUE,
+		GoodHot = true,
+		IsCookable = TRUE,
+		RemoveUnhappinessWhenCooked = true,
+		MinutesToCook = 25,
+		MinutesToBurn = 60,
+		DaysFresh = 5,
+		DaysTotallyRotten = 9,
+		HungerChange = -22,
+		UnhappyChange = 20,
+		Calories = 290,
+		Carbohydrates = 0,
+		Lipids = 10,
+		Proteins = 74.8,
+		CustomEatSound = EatingDeadAnimal,
+		WorldStaticModel = Frog_Ground,
+	} 
+}
