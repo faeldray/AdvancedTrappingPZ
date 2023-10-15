@@ -1,4 +1,5 @@
 version=1
+id=3051804214
 title=Advanced Trapping (Even More Baits!)
 description=This mod adds the ability to use most of the existing foods as bait for trapping.
 tags=Build 41;Balance;Food;Realistic
