@@ -60,7 +60,11 @@ if Animals ~= nil then
             newBaits["Base.BagelSesame"] = 40;
             newBaits["Base.Biscuit"] = 40;
             newBaits["Base.TortillaChips"] = 40;
-            
+            newBaits["Base.MuffinFruit"] = 40;
+            newBaits["Base.MuffinGeneric"] = 40;
+            newBaits["Base.Muffintray_Biscuit"] = 40;
+            newBaits["Base.Tortilla"] = 40;
+
             -- Birds can eat spicy berries like chili peppers because their taste buds are insensitive for the capsaicin
             newBaits["Base.PepperHabanero"] = 35;
             newBaits["Base.PepperJalapeno"] = 35;
@@ -131,9 +135,9 @@ if Animals ~= nil then
             newBaits["Base.Cornbread"] = 40;
             newBaits["Base.Corndog"] = 40;
             newBaits["Base.Crackers"] = 40;
-            newBaits["Base.Crisps1"] = 35
-            newBaits["Base.Crisps2"] = 35
-            newBaits["Base.Crisps3"] = 35
+            newBaits["Base.Crisps1"] = 35;
+            newBaits["Base.Crisps2"] = 35;
+            newBaits["Base.Crisps3"] = 35;
             newBaits["Base.Crisps4"] = 35;
             newBaits["Base.Croissant"] = 40;
             newBaits["Base.Cupcake"] = 30;
@@ -239,7 +243,6 @@ if Animals ~= nil then
             newBaits["Base.WildEggs"] = 45;
             newBaits["Base.Zucchini"] = 25;
             newBaits["Base.Toast"] = 40;
-            newBaits["Base.TortillaChips"] = 40;
             
             newRodent.baits = newBaits;
             Animals[i] = newRodent;
@@ -322,7 +325,11 @@ if Animals ~= nil then
             newBaits["Base.BagelSesame"] = 40;
             newBaits["Base.Biscuit"] = 40;
             newBaits["Base.TortillaChips"] = 40;
-            
+            newBaits["Base.MuffinFruit"] = 40;
+            newBaits["Base.MuffinGeneric"] = 40;
+            newBaits["Base.Muffintray_Biscuit"] = 40;
+            newBaits["Base.Tortilla"] = 40;
+
             newSquirrel.baits = newBaits;
             Animals[i] = newSquirrel;
             print("AdvancedTrapping: Added new squirrel baits");
@@ -372,6 +379,10 @@ if Animals ~= nil then
             newBaits["Base.Grapefruit"] = 35;
             newBaits["Base.Eggplant"] = 35;
             newBaits["Base.Rosehips"] = 30;
+            newBaits["Base.Tortilla"] = 10;
+            newBaits["Base.MuffinFruit"] = 10;
+            newBaits["Base.MuffinGeneric"] = 10;
+            newBaits["Base.Muffintray_Biscuit"] = 10;
 
             newRabbit.baits = newBaits;
             Animals[i] = newRabbit;
@@ -450,9 +461,13 @@ if Animals ~= nil then
     frog_large.baits["Base.BandedWoolyBearCaterpillar"] = 15;
     frog_large.baits["Base.Centipede"] = 10;
     frog_large.baits["Base.Centipede2"] = 10;
+    frog_large.baits["Base.Maggots"] = 15;
+    frog_large.baits["Base.Maggots2"] = 15;
+    frog_large.baits["Base.MaggotsZombie"] = 15;
     frog_large.baits["Base.Millipede"] = 10;
     frog_large.baits["Base.Millipede2"] = 10;
     frog_large.baits["Base.MonarchCaterpillar"] = 15;
+    frog_small.baits["Base.Pillbug"] = 15;
     frog_large.baits["Base.SawflyLarva"] = 15;
     frog_large.baits["Base.SilkMothCaterpillar"] = 15;
     frog_large.baits["Base.SwallowtailCaterpillar"] = 15;
