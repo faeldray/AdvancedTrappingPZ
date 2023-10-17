@@ -6,7 +6,7 @@ description=
 description=This mod adds the ability to use most of the existing foods as bait for trapping.
 description=For food with less than 5 hunger value a custom context menu was added to achieve the maximum possible compatibility with other mods.
 description=
-description=[url=https://github.com/faeldray/AdvancedTrappingPZ/wiki/New-bait-info]Find all the details on the new baits and their attractiveness here.[/url]
+description=[url=https://github.com/faeldray/AdvancedTrappingPZ/wiki]Find all the details on the new baits and their attractiveness here.[/url]
 description=
 description=[h1]New bait added:[/h1]
 description=
