@@ -1,38 +1,38 @@
 version=1
 id=3051804214
 title=Advanced Trapping (Even More Baits!)
-description=[h1][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2852333263]Full credit goes to Genesis for making the original mod[/url][/h1]
-description=
-description=This mod adds the ability to use most of the existing foods as bait for trapping.
-description=For food with less than 5 hunger value a custom context menu was added to achieve the maximum possible compatibility with other mods.
-description=
-description=[url=https://github.com/faeldray/AdvancedTrappingPZ/wiki/New-bait-info]Find all the details on the new baits and their attractiveness here.[/url]
-description=
-description=[h1]New bait added:[/h1]
-description=
-description=[list][*]20+ Bird bait entries
-description=[*]20+ Rabbit bait entries
-description=[*]60+ Squirrel bait entries
-description=[*]150+ Rat and Mouse bait entries[/list]
-description=
-description=[h1]New prey added Frog:[/h1]
-description=
-description=[list][*]Found near ponds in the forest.
-description=[*]Loves to eat insects, small mice, birds and sometimes other smaller frogs.
-description=[*]Mostly active at the evening and night.[/list]
-description=
-description=[h1]FAQ[/h1]
-description=
-description=Q: Does this mod require to start a new game?
-description=A: No.
-description=
-description=Q: Is this mod compatible with other mods that modify trapping?
-description=A: Most likely.
-description=
-description=Q: Can you add X as a bait?
-description=A: If it makes realistic sense, sure! [url=https://github.com/faeldray/AdvancedTrappingPZ/issues]Let me know your suggestions on Github.[/url]
-description=
-description=Workshop ID: 3051804214
+description=[h1][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2852333263]Full credit goes to Genesis for making the original mod[/url][/h1]
+description=
+description=This mod adds the ability to use most of the existing foods as bait for trapping.
+description=For food with less than 5 hunger value a custom context menu was added to achieve the maximum possible compatibility with other mods.
+description=
+description=[url=https://github.com/faeldray/AdvancedTrappingPZ/wiki/New-bait-info]Find all the details on the new baits and their attractiveness here.[/url]
+description=
+description=[h1]New bait added:[/h1]
+description=
+description=[list][*]20+ Bird bait entries
+description=[*]20+ Rabbit bait entries
+description=[*]60+ Squirrel bait entries
+description=[*]150+ Rat and Mouse bait entries[/list]
+description=
+description=[h1]New prey added Frog:[/h1]
+description=
+description=[list][*]Found near ponds in the forest.
+description=[*]Loves to eat insects, small mice, birds and sometimes other smaller frogs.
+description=[*]Mostly active at the evening and night.[/list]
+description=
+description=[h1]FAQ[/h1]
+description=
+description=Q: Does this mod require to start a new game?
+description=A: No.
+description=
+description=Q: Is this mod compatible with other mods that modify trapping?
+description=A: Most likely.
+description=
+description=Q: Can you add X as a bait?
+description=A: If it makes realistic sense, sure! [url=https://github.com/faeldray/AdvancedTrappingPZ/issues]Let me know your suggestions on Github.[/url]
+description=
+description=Workshop ID: 3051804214
 description=Mod ID: advanced_trapping
 tags=Build 41;Balance;Food;Realistic
 visibility=public
